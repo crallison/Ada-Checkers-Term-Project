@@ -12,8 +12,5 @@ After this project, I have come to the conclusion that Ada does not perform well
 * GUI was made using the John English Windows Library (JEWL) which can be found here: http://archive.adaic.com/tools/bindings/JEWL/jewl.html 
 
 # Credits
-* Michael Ellis - main developer
-* Candace Allison - main developer
-* Kevin Lee
-* Trent Harrell
-* Pratik Acharya
+* Michael Ellis
+* Candace Allison
